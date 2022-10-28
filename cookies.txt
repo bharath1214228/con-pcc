@@ -1,0 +1,4 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+pchapmanconstruction.com	TRUE	/	FALSE	1999999999	PHPSESSID	sdcm01j30mubq1vgqog4cgh604
+
